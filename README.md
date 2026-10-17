@@ -8,3 +8,5 @@
 Напоминаем, что все части работы нужно сдавать на ревью одновременно.
 
 Успехов!
+
+Environment setup: [English](ENVIRONMENT.md) | [Русский](ENVIRONMENT.ru.md)
