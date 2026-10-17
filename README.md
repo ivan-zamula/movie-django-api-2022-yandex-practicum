@@ -1,10 +1,29 @@
-# Описание задания на 2 спринт
- 
-Описание структуры и порядок выполнения проекта:
+# Movie API with Django (Yandex Practicum, 2022)
 
-1. `docker_compose` — задача про настройку Nginx, Docker и Django.
-2. `django_api` — задача про реализацию API для выдачи информации о фильме.
+[English](README.md) | [Русский](README.ru.md)
 
-Напоминаем, что все части работы нужно сдавать на ревью одновременно.
+Django movie API code and Docker Compose examples. The API includes movie lists and individual movie details.
 
-Успехов!
+Course work from Yandex Practicum's Middle Python Developer program.
+
+
+## Get the code
+
+```bash
+git clone https://github.com/ivan-zamula/movie-django-api-2022-yandex-practicum.git
+cd movie-django-api-2022-yandex-practicum
+```
+
+## Code and resources
+
+- [01_docker_compose](01_docker_compose)
+- [02_django_api](02_django_api)
+
+## Sprint 2 workflow
+
+1. [Docker Compose](01_docker_compose): configure Nginx, Docker and Django.
+2. [Django API](02_django_api): implement an API that returns movie information.
+
+Submit all parts of the assignment for review together.
+
+Local environment setup: [English](ENVIRONMENT.md) | [Русский](ENVIRONMENT.ru.md). Use the `env.example` templates and keep working configuration files local.
